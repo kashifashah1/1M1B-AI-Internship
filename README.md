@@ -1,8 +1,7 @@
 
 # 1M1B-AI-Internship
   
-Weekly learning themes:
-  
+<h1>Weekly learning themes</h1>
 Week 1: Data Sourcing & Sustainability Metrics<br>
 Week 2: Defining Real-World Problems Through Data<br>
 Week 3: Data Visualization & Strategy Building<br>
