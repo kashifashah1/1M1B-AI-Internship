@@ -1,5 +1,5 @@
 
-<h1>1M1B-AI-Internship<h1/>
+# 1M1B-AI-Internship
   
 <h2>Weekly learning themes:<h2/>
 Week 1: Data Sourcing & Sustainability Metrics<br>
