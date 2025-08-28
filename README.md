@@ -9,7 +9,7 @@ Week 1: Data Sourcing & Sustainability Metrics<br>
 📊 Building Data Literacy – strengthening my ability to use data for impactful decisions.
 📖 The Climate Dictionary – expanding my knowledge of sustainability concepts.
 📈 Understanding Statistics – sharpening the numbers that drive insights.
-
+<br>
 Week 2: Defining Real-World Problems Through Data<br>
 Week 3: Data Visualization & Strategy Building<br>
 Week 4: Solution Development & Prototyping<br>
