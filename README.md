@@ -3,7 +3,7 @@
   
 <h2>Weekly learning themes</h2>
 Week 1: Data Sourcing & Sustainability Metrics<br>
-
+<br>
 🌍 Design Thinking for Sustainability – exploring how innovation can address global challenges.
 ♻️ Understanding ESG (Environmental, Social & Governance) – and learning how it shapes meaningful work.
 📊 Building Data Literacy – strengthening my ability to use data for impactful decisions.
