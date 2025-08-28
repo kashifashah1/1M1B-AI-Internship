@@ -8,7 +8,7 @@ Week 1: Data Sourcing & Sustainability Metrics<br>
 ♻️ Understanding ESG (Environmental, Social & Governance) – and learning how it shapes meaningful work.
 📊 Building Data Literacy – strengthening my ability to use data for impactful decisions.
 📖 The Climate Dictionary – expanding my knowledge of sustainability concepts.
-📈 Understanding Statistics – sharpening the numbers that drive insights.
+📈 Understanding Statistics – sharpening the numbers that drive insights.<br>
 <br>
 Week 2: Defining Real-World Problems Through Data<br>
 Week 3: Data Visualization & Strategy Building<br>
