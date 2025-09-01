@@ -19,7 +19,7 @@ This week, I’ve been focusing on enhancing both my Tech Skills and Green Skill
 2. Data Storytelling with Tableau: Finished the mandatory course, learning how to leverage Tableau for creating impactful data stories. I also practiced visualizing data using Tableau’s interactive features.
 3. SWOT Analysis and SMART Metrics: Applied these frameworks to my ongoing project work, developing a solid foundation for structured decision-making.
 
-Week 3: Data Visualization & Strategy Building<br>
-Week 4: Solution Development & Prototyping<br>
-Week 5: Implementation & Impact Mapping<br>
-Week 6: Reflection, Green Skills Journey & Way Forward<br>
+# Week 3: Data Visualization & Strategy Building<br>
+# Week 4: Solution Development & Prototyping<br>
+# Week 5: Implementation & Impact Mapping<br>
+# Week 6: Reflection, Green Skills Journey & Way Forward<br>
