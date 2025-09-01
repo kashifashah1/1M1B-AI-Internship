@@ -1,8 +1,6 @@
 
 # 1M1B-AI-Internship
   
-<h2>Weekly learning themes</h2>
-
 # Week 1: Data Sourcing & Sustainability Metrics<br>
 <br>
 🌍 Design Thinking for Sustainability – exploring how innovation can address global challenges.
